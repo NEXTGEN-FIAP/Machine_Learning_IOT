@@ -21,3 +21,13 @@ A Árvore de Decisão é um modelo de classificação que funciona dividindo o c
 *   Java - Utilizar o modelo para prever, de acordo com as variáveis que a empresa definiu, a partir dos inputs do cliente.
 *   C# - Utilizar a resposta do modelo e comparar o influenciador escolhido pela empresa, para gerar feedback a empresa, se faz ou não sentido o uso do influenciador específico na campanha.
 # Arquivo possui dois exemplos de uso diferentes do modelo treinado!
+
+# Para testar, as possíveis variáveis de entrada treinadas, são:
+* Nicho: Cosmético, Produtos Gourmet, Decoração de Interiores,Tecnologia, Inovação
+* públicoAlvoCampanha: Adolescentes, Jovens, Adultos, Idosos
+* gêneroAlvoCampanha: Mulheres, Homens, Ambos
+* interessesDoPublico: Beleza, Maquiagem, Estilo, Culinária, Gastronomia, Experiências,Decoração, Design de Interiores, Tecnologia, Gadgets, Inovação, Futuro
+* canalDaCampanha: Youtube, Instagram, TV
+* alcanceDaCampanha: Local, Regional e Nacional 
+# Variáveis de saída:
+* nomeInfluencer: Virginia Fonseca, Casimiro, Dex, Ana Maria Braga
