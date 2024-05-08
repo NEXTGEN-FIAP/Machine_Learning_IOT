@@ -1,10 +1,10 @@
 # Integrantes do grupo:
 
-Mateus Viana Batista - RM 99530
-Michael José Bernardi da Silva - RM 99409
-Ricardo Correia Temple - RM 99721
-Thábata Orbeteli Viotto Santos - RM 550268
-Yago Taguchi Ruksenas - RM 97827
+- Mateus Viana Batista - RM 99530
+- Michael José Bernardi da Silva - RM 99409
+- Ricardo Correia Temple - RM 99721
+- Thábata Orbeteli Viotto Santos - RM 550268
+- Yago Taguchi Ruksenas - RM 97827
 
 # CSV: Social Rate , anexado no repositório GitHub
 - O modelo foi treinado com base nesse CSV que é nossa base de Influencers, a nível de MVP criamos uma base local com os dados fictícios de alguns Influencers.
